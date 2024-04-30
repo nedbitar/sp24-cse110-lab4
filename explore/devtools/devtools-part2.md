@@ -1,0 +1,2 @@
+1) The values are being treated as a string. So instead of addition. You are gettting "12"
+2) They are two ways to fix it you. You can add "+" for the variable declaration. This forces it get converted into a number. You can also put Number(Sutff Goes here) and that would also fix the precived issues.
